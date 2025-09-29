@@ -2,7 +2,7 @@ import { StyleSheet, Text, View } from "react-native";
 import { FancyBox } from "./FancyBox";
 
 // Fixar med git och ändrar den
-
+// Mera kommentar
 export default function Index() {
     return (
         <View
