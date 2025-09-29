@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
     redbox: {
         flexDirection: "row",
         backgroundColor: "red",
-        height: 130,
+        height: 155,
         width: "100%",
         alignItems: "center"
     }
