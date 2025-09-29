@@ -3,6 +3,8 @@ import { FancyBox } from "./FancyBox";
 
 // Fixar med git och ändrar den
 // Mera kommentar
+// Tredje kommentar
+
 export default function Index() {
     return (
         <View
