@@ -1,6 +1,8 @@
 import { StyleSheet, Text, View } from "react-native";
 import { FancyBox } from "./FancyBox";
 
+// Fixar med git
+
 export default function Index() {
     return (
         <View
