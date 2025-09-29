@@ -1,7 +1,7 @@
 import { StyleSheet, Text, View } from "react-native";
 import { FancyBox } from "./FancyBox";
 
-// Fixar med git
+// Fixar med git och ändrar den
 
 export default function Index() {
     return (
