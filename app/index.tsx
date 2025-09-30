@@ -20,9 +20,7 @@ export default function Index() {
             textAlign: "center",
             fontSize: 20,
           }}
-        >
-          RUBRIK
-        </Text>
+        ></Text>
       </View>
 
       <View style={styles.greenbox}>
